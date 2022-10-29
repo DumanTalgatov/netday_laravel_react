@@ -76,7 +76,7 @@ class RegistrationForm extends React.Component {
                 <div className="main-div my-20px">
                     <div>
                         <div className="sub-title">
-                            <p>TEST YOURSEL !</p>
+                            <p>TEST YOURSELF !</p>
                             <p className='my-2'>MULTIPLY KNOWLEDGE !</p>
                             <p>TRY YOUR LUCK !</p>
                         </div>
