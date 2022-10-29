@@ -1,0 +1,53 @@
+.awardSection{
+    background-color: #000910;
+    height: 100vh;
+    width: 100%;
+}
+.awardSection h1{
+    font-size: 2.5rem;
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 1rem;
+    letter-spacing: 2vh;
+}
+.imgAward{
+    position: relative;
+    left: 50%;
+   top: 30%;
+    transform: translate(-50%, -50%);
+}
+.imgo{
+    position:relative;
+    max-width:100%;
+    max-height:100%;
+}
+
+@media screen and (max-width: 960px){
+    .awardSection{
+        background-color: #000910;
+        height: 50vh;
+        width: 100%;
+    }
+    .awardSection h1{
+       letter-spacing: 0;
+    }
+    .imgAward{
+        position: relative;
+        left: 50%;
+       top: 30%;
+        transform: translate(-50%, -50%);
+    }
+
+    .imgo{
+        position:relative;
+        max-width:100%;
+        max-height:100%;
+        margin: 0 auto;
+       
+       
+    }
+
+        
+    }

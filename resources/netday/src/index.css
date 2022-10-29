@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000910;
+}
+.places-img {
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+img{
+  max-width: 1000px;
+}
+
+input {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #38D9BA;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 6px;
+}
+
+select {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  border-bottom: 1px solid #38D9BA;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 2px;
+}
+
+option {
+  background-color: #1E1E1E;
+  font-size: 16px;
+}
+
+.underline {
+  width: 70%;
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+.m-top {
+  margin-top: 20px;
+}
+
+.bgimage {
+  background-image: url("assets/images/img_1.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .bgimage{
+    background-size: auto;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

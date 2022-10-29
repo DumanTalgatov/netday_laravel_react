@@ -1,0 +1,40 @@
+.sub-title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #38D9BA;
+}
+.main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 16px;
+}
+.mx-20px {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.text-color {
+    color: #38D9BA;
+}
+.num-font-big {
+    font-weight: bold;
+    font-size: 30px;
+}
+.num-font-mid {
+    font-size: 20px;
+}
+.num-font-hug {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    font-weight: bold;
+    text-align: center;
+}
