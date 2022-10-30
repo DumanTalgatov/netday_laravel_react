@@ -7481,7 +7481,7 @@ var RegistrationForm = /*#__PURE__*/function (_React$Component) {
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
               className: "sub-title",
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("p", {
-                children: "TEST YOURSELF !"
+                children: "TEST YOURSEL !"
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("p", {
                 className: "my-2",
                 children: "MULTIPLY KNOWLEDGE !"
@@ -10143,7 +10143,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, ".end-word {\n    display: flex;\n    justify-content: center;\n    letter-spacing: 0.7vh;\n    color: white;\n    margin-top: 60px;\n    margin-bottom: 20px;\n}\n.main-container {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    flex-direction: row;\n}\n.inside-container {\n    display: flex;\n    width: 50%;\n    align-items: center;\n    margin-right: 40px;\n}\n.content-start {\n    justify-content: flex-start;\n}\n.content-end {\n    justify-content: flex-end;\n}\n.center-div {\n    display: flex;\n    color: white;\n    flex-direction: column;\n    justify-content: center;\n    align-items: center;\n}\n.in-text {\n    margin-bottom: 30px;\n    font-size: 18px;\n}\n.flex-start-div {\n    display: flex;\n    justify-content: flex-start;\n    flex-direction: column;\n}\n.flex-mb-4 {\n    display: flex;\n    margin-bottom: 16px;\n}\n.icon {\n    width: 22px;\n    margin-right: 4px;\n}\n@media screen and (max-width: 960px) {\n    .main-container {\n        flex-direction: column;\n    }\n    .content-start {\n        justify-content: center;\n        margin-top: 20px;\n    }\n    .inside-container {\n        margin-right: 0px;\n    }\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, ".end-word {\r\n    display: flex;\r\n    justify-content: center;\r\n    letter-spacing: 0.7vh;\r\n    color: white;\r\n    margin-top: 60px;\r\n    margin-bottom: 20px;\r\n}\r\n.main-container {\r\n    display: flex;\r\n    justify-content: center;\r\n    align-items: center;\r\n    flex-direction: row;\r\n}\r\n.inside-container {\r\n    display: flex;\r\n    width: 50%;\r\n    align-items: center;\r\n    margin-right: 40px;\r\n}\r\n.content-start {\r\n    justify-content: flex-start;\r\n}\r\n.content-end {\r\n    justify-content: flex-end;\r\n}\r\n.center-div {\r\n    display: flex;\r\n    color: white;\r\n    flex-direction: column;\r\n    justify-content: center;\r\n    align-items: center;\r\n}\r\n.in-text {\r\n    margin-bottom: 30px;\r\n    font-size: 18px;\r\n}\r\n.flex-start-div {\r\n    display: flex;\r\n    justify-content: flex-start;\r\n    flex-direction: column;\r\n}\r\n.flex-mb-4 {\r\n    display: flex;\r\n    margin-bottom: 16px;\r\n}\r\n.icon {\r\n    width: 22px;\r\n    margin-right: 4px;\r\n}\r\n@media screen and (max-width: 960px) {\r\n    .main-container {\r\n        flex-direction: column;\r\n    }\r\n    .content-start {\r\n        justify-content: center;\r\n        margin-top: 20px;\r\n    }\r\n    .inside-container {\r\n        margin-right: 0px;\r\n    }\r\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
