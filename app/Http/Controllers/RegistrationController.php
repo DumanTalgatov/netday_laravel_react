@@ -51,8 +51,8 @@ class RegistrationController extends Controller
             $user->course = $request->input('course');
 
             // с помощью request вылавливаем имэйл и отправляем туда сообщение (email send)
-            $email = $request->input('email');
-            Mail::to($email)->send(new InstructionMail());
+            // $email = $request->input('email');
+            // Mail::to($email)->send(new InstructionMail());
 
             // только после (email send) сохраняем пользователя
             $user->save();
